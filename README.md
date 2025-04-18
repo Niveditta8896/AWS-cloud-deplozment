@@ -39,3 +39,5 @@ AWS EC2
 SCP (for file transfer)
 
 Git Bash
+
+check out the video here video link ;; https://1drv.ms/v/c/42ea9c423e754f3c/EeDioIzTh-pJtHV0l2sh2FABw3A0pPh8rCIFO5lltiQzWQ?e=J1kG4Q
